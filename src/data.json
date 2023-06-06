@@ -1,0 +1,49 @@
+{
+  "lists": [
+    {
+      "title": "list 1",
+      "order": 1,
+      "todos": [
+        {
+          "content": "todo 1"
+        },
+        {
+          "content": "todo 2"
+        },
+        {
+          "content": "todo 3"
+        }
+      ]
+    },
+    {
+      "title": "list 2",
+      "order": 2,
+      "todos": [
+        {
+          "content": "todo 1"
+        },
+        {
+          "content": "todo 2"
+        },
+        {
+          "content": "todo 3"
+        }
+      ]
+    },
+    {
+      "title": "list 3",
+      "order": 3,
+      "todos": [
+        {
+          "content": "todo 1"
+        },
+        {
+          "content": "todo 2"
+        },
+        {
+          "content": "todo 3"
+        }
+      ]
+    }
+  ]
+}
